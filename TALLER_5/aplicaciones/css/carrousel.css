@@ -1,0 +1,26 @@
+.styles
+.carousel {
+    height: 30%;
+}
+
+/* Estilos para la imagen del logo */
+.logo-img {
+    width: 7%;
+    height: auto;
+    margin-right: 30px;
+}
+
+/* Estilos para el título del taller */
+.logo-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Estilos para el contenedor del logo y el título */
+.logo-container {
+    display: flex;
+    align-items: center;
+    
+}
+
